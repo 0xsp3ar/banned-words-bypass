@@ -2,7 +2,6 @@
 #i'm just beginner and i found this idea so i start coding for fun and learning new stuff :)
 #DISCORD : 0xSp3ar#5560
 #Twiter : https://twitter.com/0xsp3ar
-#Discord Server : https://discord.gg/5afaya
 #---------------------------------------------------------#
 def seofriendly(seo):
   wordseo=""
