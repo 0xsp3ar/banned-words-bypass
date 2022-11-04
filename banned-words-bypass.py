@@ -19,8 +19,8 @@ def save(saveword):
   print("Done !! Check file word.txt")
 def start():
 
-  level=input('''1- Low bypass (Seo Friendly)
-2- high bypass (not friendly for seo)
+  level=input('''1- Low Level Bypass (Seo Friendly)
+2- High Level Bypass (not friendly for seo)
 Enter Number :''')
   return level   
 
